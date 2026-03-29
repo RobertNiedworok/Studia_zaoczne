@@ -1,4 +1,4 @@
 # Studia_zaoczne
 podstawy programowania
-# rodział 1
+# Rozdział 1
 testy oprogramowania
